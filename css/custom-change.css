@@ -1,0 +1,72 @@
+/*---------------------------------------
+  CUSTOM PROPERTIES ( FONTS )             
+-----------------------------------------*/
+@font-face { font-family: AbrahamLincoln; src: url("../fonts/AbrahamLincoln.ttf") format("truetype"); }
+@font-face { font-family: ArvilSans; src: url("../fonts/Arvil_Sans.ttf") format("truetype"); }
+@font-face { font-family: Gallatone; src: url("../fonts/Gallatone.otf") format("opentype"); }
+
+/*---------------------------------------
+  CUSTOM PROPERTIES ( VARIABLES )             
+-----------------------------------------*/
+:root {
+  --p-green:                      #00B74F;
+  --p-darkgreen:                  #046A38;
+  --p-orange:                     #FF6900;
+  --p-darkorange:                 #CB6015;
+  --p-darkbrown:                  #3F2021;
+  --p-darkbeige:                  #ffd2b7; 
+  --p-beige:                      #ffeade;
+
+  --white-color:                  #FFFFFF;
+  --primary-color:                #2b8b2b;
+  --section-bg-color:             #F9F9F9;
+  --dark-color:                   #000000;
+  --title-color:                  #565758;
+  --p-color:                      #000000;
+  --p-white:                      #FFFFFF;
+  --border-color:                 #eaeaea;
+
+  --body-font-family:             'AbrahamLincoln';
+
+  --gallatone-title-size:         90px;
+  --arvil-title-size:             36px;
+  --h1-font-size:                 48px;
+  --h2-font-size:                 36px;
+  --h3-font-size:                 32px;
+  --h4-font-size:                 28px;
+  --h5-font-size:                 24px;
+  --h6-font-size:                 22px;
+  --p-font-size:                  18px;
+  --menu-font-size:               32px;
+
+  --font-weight-light:            300;
+  --font-weight-normal:           400;
+  --font-weight-semibold:         600;
+  --font-weight-bold:             700;
+}
+
+.four-col {   
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+}
+
+.rounded-box {
+    border-radius: 1.5rem;
+}
+
+#green-box {
+    background-color: var(--p-green);
+}
+
+#green-box2 {
+    background-color: var(--p-darkgreen);
+}
+
+#green-box-text-header {
+    font-family: 'ArvilSans';
+    color: var(--p-white);
+}
+
+#green-box-text {
+    color: var(--p-white);
+}
