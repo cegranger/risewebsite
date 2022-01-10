@@ -15,18 +15,18 @@
         nav: true,
         dots: false,
         autoplay: true,
-        autoplaySpeed: 2500,
-        smartSpeed: 3000,
+        autoplaySpeed: 2000,
+        smartSpeed: 4000,
         responsive:{
           0:{
             items:1,
           },
           768:{
-            items:2,
+            items:3,
             margin: 100,
           },
           1280:{
-            items:2,
+            items:5,
             margin: 100,
           }
         }
