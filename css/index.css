@@ -1458,9 +1458,18 @@ display: block;
     width: 100%;
     right: -35px;
   }
+
+  .desc{
+    font-size: small ;
+  }
 }
 
 @media screen and (max-width: 767px) {
+
+  .desc{
+    font-size: x-large ;
+  }
+
   .basic-list {
     font-size: x-large;
     margin-bottom: 28px;
