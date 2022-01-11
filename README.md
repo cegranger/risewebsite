@@ -7,11 +7,11 @@ bootstrap from template
 
 
 - [x] Landing page + header
-- [ ] Menu fond solide
-- [ ] Footer
-- [ ] Section Projet (info + photos)
-- [ ] Section Équipe 
-- [ ] Section Partenaires
-- [ ] Section développement (info + carousel)
-- [ ] Section Soutient
-- [ ] Section Contact
+- [x] Menu fond solide
+- [x] Footer
+- [x] Section Projet (info + photos)
+- [x] Section Équipe 
+- [x] Section Partenaires
+- [x] Section développement (info + carousel)
+- [x] Section Soutient
+- [x] Section Contact
