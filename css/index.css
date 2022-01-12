@@ -530,15 +530,15 @@ textarea:focus, input:focus {
   border-color: transparent !important;
 }
 
-input::-webkit-input-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-input:-moz-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-input::-moz-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-input:-ms-input-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
+input::-webkit-input-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+input:-moz-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+input::-moz-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+input:-ms-input-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
 
-textarea::-webkit-input-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-textarea:-moz-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-textarea::-moz-placeholder { color: var(--p-green); font-family: AbrahamLincoln; opacity: 0.5;}
-textarea:-ms-input-placeholder { color: var(--p-green);font-family: AbrahamLincoln; opacity: 0.5;}
+textarea::-webkit-input-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+textarea:-moz-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+textarea::-moz-placeholder { color: var(--p-darkgreen); font-family: AbrahamLincoln; opacity: 0.5;}
+textarea:-ms-input-placeholder { color: var(--p-darkgreen);font-family: AbrahamLincoln; opacity: 0.5;}
 
 /*---------------------------------------------*/
 button {
