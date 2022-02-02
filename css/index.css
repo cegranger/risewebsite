@@ -1235,6 +1235,11 @@ display: block;
   height: 70px !important;
 }
 
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
+
 .reviews-carousel .owl-item {
   opacity: 0.45;
 }
@@ -1299,9 +1304,8 @@ display: block;
 }
 
 .partner-logo{
-  width: 150px; 
-  margin-top:50px; 
-  margin-bottom: 35px;
+  border: 1px black solid;
+  
 }
 
 /*---------------------------------------
@@ -1520,6 +1524,7 @@ display: block;
     position:relative;
     width: 150px !important;
   }
+
   
 }
 
