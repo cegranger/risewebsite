@@ -1235,11 +1235,6 @@ display: block;
   height: 70px !important;
 }
 
-.owl-carousel .owl-stage {
-  display: flex;
-  align-items: center;
-}
-
 .reviews-carousel .owl-item {
   opacity: 0.45;
 }
@@ -1266,6 +1261,13 @@ display: block;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+  padding: 0;
 }
 
 .reviews-carousel .owl-nav span {
@@ -1304,8 +1306,7 @@ display: block;
 }
 
 .partner-logo{
-  border: 1px black solid;
-  
+  width: auto;
 }
 
 /*---------------------------------------
@@ -1496,11 +1497,6 @@ display: block;
     margin-top: 20px;
   }
 
-  .reviews-carousel .owl-nav {
-    width: 0;
-    height: 0;
-  }
-
   .footer{
     padding-top: 0px;
   }
@@ -1520,9 +1516,12 @@ display: block;
     right: 0px;
   }
 
+  .owl-carousel .owl-item{
+    left: 1.65%
+  }
+
   .partner-logo{
-    position:relative;
-    width: 150px !important;
+    width: 35% !important;
   }
 
   
