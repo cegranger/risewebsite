@@ -5,13 +5,34 @@ bootstrap from template
 
 ### TO DOs
 
+- [] Logos commanditaires
+- [] Section Platine
+- [] Ajout historique conception
+- [] Cleanup
 
-- [x] Landing page + header
-- [x] Menu fond solide
-- [x] Footer
-- [x] Section Projet (info + photos)
-- [x] Section Équipe 
-- [x] Section Partenaires
-- [x] Section développement (info + carousel)
-- [x] Section Soutient
-- [x] Section Contact
+## Platine/Or
+- [] BRP
+
+## Argent/Bronze
+- [X] Pomme F (Carolane & Catherine)
+- [X] Moteur Gosselin 
+- [X] KISSsoft AG
+- [X] SKF
+- [X] Siemens
+- [] Michelin
+- [] Guru
+- [X] Boréas Technologies
+- [] Waterville TG
+- [X] Gurit
+- [X] Continental conveyor
+- [] Bespline
+- [X] Devinci
+- [] Engrenages Sherbrooke inc.
+- [] J.M Bergeron
+- [] PTM&W
+- [] Créatek
+- [X] Calogy solutions
+- [] M2 Innovation
+- [] Desjardins 360d
+
+
