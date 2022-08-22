@@ -33,6 +33,6 @@ bootstrap from template
 - [ ] Créatek
 - [X] Calogy solutions
 - [ ] M2 Innovation
-- [] Desjardins 360d
+- [ ] Desjardins 360d
 
 
