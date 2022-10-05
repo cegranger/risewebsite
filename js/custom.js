@@ -19,11 +19,11 @@
         smartSpeed: 4000,
         responsive:{
           0:{
-            items:1,
-            nav: false,
+            items:2,
+           // nav: false,
           },
           768:{
-            items:3,
+            items:5,
             margin: 100,
           },
           1280:{
